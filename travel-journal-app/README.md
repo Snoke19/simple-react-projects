@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). A simple ReactJS project for studying.
 
 ## Preview
-![Travel Journal](/travel_journal.png)
+![Travel Journal](/travel-journal-app/travel_journal.png)
 
 ## Available Scripts
 

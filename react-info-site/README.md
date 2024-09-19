@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Simple ReactJS project for studying.
 
 ## Preview
-![Image Info](/info_image.png)
+![Image Info](/react-info-site/info_image.png)
 
 ## Available Scripts
 

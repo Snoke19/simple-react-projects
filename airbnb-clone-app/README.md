@@ -5,7 +5,7 @@ This project is just a simple ReactJS project with simple components and design.
 
 # Preview
 
-![MarineGEO circle logo](/page_simple.gif "MarineGEO logo")
+![MarineGEO circle logo](/airbnb-clone-app/page_simple.gif "MarineGEO logo")
 
 ## Available Scripts
 

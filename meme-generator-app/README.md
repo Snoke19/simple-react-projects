@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 A simple project that creates meme pictures with text and lets users download the generated PNG images. 
 
 ## Preview
-![Meme generator preview](/render_meme.gif)
+![Meme generator preview](/meme-generator-app/render_meme.gif)
 
-![Meme generator preview](/meme_generator.png)
+![Meme generator preview](/meme-generator-app/meme_generator.png)
 
 ## Available Scripts
 

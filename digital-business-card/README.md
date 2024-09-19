@@ -5,7 +5,7 @@ Simple project for first start developing on React framework and front-end devel
 
 # Preview
 
-![Screenshot of the implemented project!](/image.png)
+![Screenshot of the implemented project!](/digital-business-card/image.png)
 
 ## Available Scripts
 
